@@ -1,3 +1,17 @@
+
+Auteur : Maimouna Bella BAH
+
+Contexte : DevOps Bootcamp 
+
+Centre de formation : eazytraining.fr
+
+LinkedIn :  www.linkedin.com/in/maimounab
+
+
+-----------
+
+
+
 # student-list 
 This repo is a simple application to list student with a webserver (PHP) and API (Flask)
 
